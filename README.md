@@ -7,7 +7,7 @@
  
 <h2>👨‍💻 University Projects:</h2>
   <h3> 4th Year</h3>
-  - <b>placeholder</b>
+  - <b>Azure Honeynet</b>
     - [placeholder](https://github.com/BaileyOConnor/)
 
   <h3> 3rd Year</h3>
