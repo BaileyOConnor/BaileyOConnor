@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
- <b>placeholder</b>
+ <b>Azure Honeynet</b>
    [Azure Honeynet](https://github.com/BaileyOConnor/)
  
 <h2>👨‍💻 University Projects:</h2>
