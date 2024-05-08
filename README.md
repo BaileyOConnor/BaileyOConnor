@@ -7,21 +7,21 @@
  
 <h2>👨‍💻 University Projects:</h2>
   <h3> 4th Year</h3>
-    - <b>placeholder</b>
-      - [placeholder](https://github.com/BaileyOConnor/)
+  - <b>placeholder</b>
+    - [placeholder](https://github.com/BaileyOConnor/)
 
   <h3> 3rd Year</h3>
-    - <b>placeholder</b>
-      - [placeholder](https://github.com/BaileyOConnor/)
+  - <b>placeholder</b>
+    - [placeholder](https://github.com/BaileyOConnor/)
        
   <h3> 2nd Year</h3>
-    - <b>placeholder</b>
-      - [placeholder](https://github.com/BaileyOConnor/)
+  - <b>placeholder</b>
+    - [placeholder](https://github.com/BaileyOConnor/)
   
 <h2>👨‍💻 Collage Projects:</h2> 
   <h3> placeholder</h3>
-    - <b>placeholder</b>
-      - [placeholder](https://github.com/BaileyOConnor/)
+  - <b>placeholder</b>
+    - [placeholder](https://github.com/BaileyOConnor/)
 
       
 
